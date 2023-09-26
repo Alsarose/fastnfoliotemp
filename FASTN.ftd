@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: Alsarose.github.io/<repo_name>
-favicon: /-/Alsarose.github.io/<repo_name>/favicon.ico
+-- fastn.package: Alsarose.github.io/fastnfoliotemp
+favicon: /-/Alsarose.github.io/fastnfoliotemp/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
@@ -12,7 +12,7 @@ favicon: /-/Alsarose.github.io/<repo_name>/favicon.ico
 
 
 
--- fastn.auto-import: Alsarose.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: Alsarose.github.io/<repo_name>/assets
+-- fastn.auto-import: Alsarose.github.io/fastnfoliotemp/FASTN/ds
+-- fastn.auto-import: Alsarose.github.io/fastnfoliotemp/assets
 -- fastn.auto-import: doc-site
 
